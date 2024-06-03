@@ -1,11 +1,11 @@
 # Project information
-site_name: Workshop Setup
-site_url: https://ibm.github.io/workshop-template
-site_author: IBM Developer
+site_name: CP4I Install Via CLI
+site_url: https://joshisa.github.io/cp4i-cli-install
+site_author: joshisa@us.ibm.com
 
 # Repository
-repo_name: workshop-template
-repo_url: https://github.com/ibm/workshop-template
+repo_name: cp4i-cli-install
+repo_url: https://github.com/joshisa/cp4i-cli-install
 edit_uri: edit/master/docs
 
 # Navigation
@@ -24,7 +24,7 @@ nav:
 ## DO NOT CHANGE BELOW THIS LINE
 
 # Copyright
-copyright: Copyright &copy; 2023- IBM Developer
+copyright: Copyright &copy; 2024- IBM 
 
 # Theme
 theme:
